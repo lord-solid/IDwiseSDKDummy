@@ -1,0 +1,16 @@
+package com.solid.idwisesdkdummy.util
+
+const val ID_NUMBER = "ID_NUMBER"
+const val NAME = "NAME"
+const val DATE_OF_BIRTH = "DATE_OF_BIRTH"
+const val GENDER = "GENDER"
+const val COUNTRY = "COUNTRY"
+const val ISSUE_DATE = "ISSUE_DATE"
+const val EXPIRY_DATE = "EXPIRY_DATE"
+const val DOCUMENT_TYPE = "DOCUMENT_TYPE"
+const val FORMAT = "FORMAT"
+const val DISPLAY_VALUE = "DISPLAY_VALUE"
+const val ID_PICKED = "ID_PICKED"
+const val IMAGE_URL_ONE = "IMAGE_URL_ONE"
+const val IMAGE_URL_TWO = "IMAGE_URL_TWO"
+const val DOUBLE_URI = "DOUBLE_URI"
